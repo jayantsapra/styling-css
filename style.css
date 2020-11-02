@@ -1,0 +1,57 @@
+#lorem{
+    background: black;
+    color: white;
+    border: 3px solid red;
+    padding: 13px 13px 13px 20px;
+    margin :10px auto;
+    
+}
+#normal{
+    font-style: normal;
+    }
+
+#italic{
+        font-style: italic;
+        }
+
+#oblique{
+           font-style: oblique;
+       } 
+#smallcap{
+           font-variant: small-caps;
+       }
+       #Wbold{
+           font-weight: bolder;
+       }
+       #Wbolder{
+           font-weight: bold;
+       }
+       #xxlarge{
+           font-size: xx-large;
+       }
+       #xlarge{
+           font-size: x-large;
+       }
+       #medium{
+           font-size: medium;
+       }
+       #small{
+           font-size: small;
+       }
+       #xxsmall{
+        font-size: xx-small;
+    }
+    #xxsmall{
+        font-size: 25pt;
+    }#size150{
+        font-size: 150%;
+    }
+    #linenormal{
+        line-height:normal;
+    }
+    #height25pt{
+        line-height: 25pt;
+    }
+    #lineem{
+        line-height: 5em;
+    }
